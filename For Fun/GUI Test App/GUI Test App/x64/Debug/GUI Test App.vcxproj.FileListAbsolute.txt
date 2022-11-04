@@ -1,0 +1,8 @@
+C:\Users\Jahyung\Desktop\Recent\For Fun Projects\GUI Test App\GUI Test App\x64\Debug\GUI Test App.vcxproj.AssemblyReference.cache
+C:\Users\Jahyung\Desktop\Recent\For Fun Projects\GUI Test App\GUI Test App\x64\Debug\GUI Test App.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Jahyung\Desktop\Recent\For Fun Projects\GUI Test App\GUI Test App\x64\Debug\GUITestApp.MyForm.resources
+C:\Users\Jahyung\Desktop\Recent\For Fun Projects\GUI Test App\GUI Test App\x64\Debug\GUI Test App.vcxproj.GenerateResource.cache
+C:\Users\Jahyung\Desktop\Projects\For Fun\GUI Test App\GUI Test App\x64\Debug\GUI Test App.vcxproj.AssemblyReference.cache
+C:\Users\Jahyung\Desktop\Projects\For Fun\GUI Test App\GUI Test App\x64\Debug\GUI Test App.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Jahyung\Desktop\Projects\For Fun\GUI Test App\GUI Test App\x64\Debug\GUITestApp.MyForm.resources
+C:\Users\Jahyung\Desktop\Projects\For Fun\GUI Test App\GUI Test App\x64\Debug\GUI Test App.vcxproj.GenerateResource.cache
